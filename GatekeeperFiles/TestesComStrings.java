@@ -1,6 +1,4 @@
-package ProjetoIntegrador;
-
-import java.util.Locale;
+package GatekeeperFiles;
 
 public class TestesComStrings {
 
